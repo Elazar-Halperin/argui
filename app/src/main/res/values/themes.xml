@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Argui" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Argui" parent="Base.Theme.Argui" />
+
+    <style name="edittext" parent="Widget.AppCompat.EditText">
+        <item name="android:maxLength">1</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:background">@drawable/edit_text_background</item>
+        <item name="android:minWidth">40dp</item>
+        <item name="android:minHeight">60dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:inputType">number</item>
+    </style>
+
+</resources>

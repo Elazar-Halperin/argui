@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "870955640586",
+    "project_id": "debatable-1c0e5",
+    "storage_bucket": "debatable-1c0e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870955640586:android:4459da5be3f716817dbcf3",
+        "android_client_info": {
+          "package_name": "com.example.argui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870955640586-r7n5f827js4e6l111sdmqedrbg1ocl4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtRe-oHyxM_LGB0rXU6rXjHFHCBPjAhRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870955640586-r7n5f827js4e6l111sdmqedrbg1ocl4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
